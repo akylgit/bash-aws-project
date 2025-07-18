@@ -4,8 +4,8 @@
 API_URL="https://api.github.com"
 
 # GitHub username and personal access token
-USERNAME=$username
-TOKEN=$token
+USERNAME="${username}"
+TOKEN="${token}"
 
 # User and Repository information
 REPO_OWNER=$1

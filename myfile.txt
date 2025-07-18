@@ -1,3 +1,0 @@
-apple,water,sample,document,pensil
-apple,water,sample,document,pensil,pen
-apple water sample document pencil
